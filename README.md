@@ -25,5 +25,5 @@ Open a new tab and go to `http://127.0.0.1:8000/metrics`
 
 At the end of the page you'll notice the metrics you created:
 
-* `app_requests_total{endpoint="/"} 1.0`
-* 
+* `app_requests_total{endpoint="/"}`
+* `app_random_number`
